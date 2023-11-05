@@ -1,0 +1,35 @@
+/* styles.css */
+nav {
+    background-color: rgb(226, 212, 212);
+  }
+  
+  ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    padding: 1rem 0;
+  }
+  
+  li {
+    margin: 0 1rem;
+  }
+  
+  NavLink {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    font-size: 1.2 rem;
+  }
+  
+  NavLink:hover {
+    color: #ff6600;
+  }
+
+  .active-item{
+    color: green
+}
+
+    .pending-item{
+    color: red
+}
+  
