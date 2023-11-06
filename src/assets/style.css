@@ -26,10 +26,10 @@ nav {
   }
 
   .active-item{
-    color: green
+    color: rgb(202, 4, 20)
 }
 
     .pending-item{
-    color: red
+    color: rgb(102, 0, 255)
 }
   
